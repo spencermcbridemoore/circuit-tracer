@@ -1,0 +1,22 @@
+{"id": "vel_accel_01a", "pair_id": "vel_accel_01", "label": "correct", "prompt": "A ball is thrown straight up. At the highest point, its acceleration is", "expected_correct_answer": "9.8 m/s^2 downward"}
+{"id": "vel_accel_01b", "pair_id": "vel_accel_01", "label": "misconception", "prompt": "A ball is thrown straight up. At the highest point, its acceleration is", "expected_correct_answer": "zero"}
+{"id": "vel_accel_02a", "pair_id": "vel_accel_02", "label": "correct", "prompt": "A car moves at constant velocity on a straight road. The net force on the car is", "expected_correct_answer": "zero"}
+{"id": "vel_accel_02b", "pair_id": "vel_accel_02", "label": "misconception", "prompt": "A car moves at constant velocity on a straight road. The net force on the car is", "expected_correct_answer": "in the direction of motion"}
+{"id": "vel_accel_03a", "pair_id": "vel_accel_03", "label": "correct", "prompt": "An object slows down while moving forward. Its acceleration is", "expected_correct_answer": "backward"}
+{"id": "vel_accel_03b", "pair_id": "vel_accel_03", "label": "misconception", "prompt": "An object slows down while moving forward. Its acceleration is", "expected_correct_answer": "forward"}
+{"id": "vel_accel_04a", "pair_id": "vel_accel_04", "label": "correct", "prompt": "A rock is dropped from rest. After 2 seconds, its velocity is approximately", "expected_correct_answer": "20 m/s"}
+{"id": "vel_accel_04b", "pair_id": "vel_accel_04", "label": "misconception", "prompt": "A rock is dropped from rest. After 2 seconds, its velocity is approximately", "expected_correct_answer": "10 m/s"}
+{"id": "vel_accel_05a", "pair_id": "vel_accel_05", "label": "correct", "prompt": "A car travels around a circular track at constant speed. Its acceleration is", "expected_correct_answer": "toward the center"}
+{"id": "vel_accel_05b", "pair_id": "vel_accel_05", "label": "misconception", "prompt": "A car travels around a circular track at constant speed. Its acceleration is", "expected_correct_answer": "zero"}
+{"id": "vel_accel_06a", "pair_id": "vel_accel_06", "label": "correct", "prompt": "When you apply brakes to a moving car, the acceleration is", "expected_correct_answer": "opposite to velocity"}
+{"id": "vel_accel_06b", "pair_id": "vel_accel_06", "label": "misconception", "prompt": "When you apply brakes to a moving car, the acceleration is", "expected_correct_answer": "in the same direction as velocity"}
+{"id": "vel_accel_07a", "pair_id": "vel_accel_07", "label": "correct", "prompt": "An object with zero velocity can have", "expected_correct_answer": "non-zero acceleration"}
+{"id": "vel_accel_07b", "pair_id": "vel_accel_07", "label": "misconception", "prompt": "An object with zero velocity can have", "expected_correct_answer": "only zero acceleration"}
+{"id": "vel_accel_08a", "pair_id": "vel_accel_08", "label": "correct", "prompt": "If an object's position vs time graph is a straight line, its acceleration is", "expected_correct_answer": "zero"}
+{"id": "vel_accel_08b", "pair_id": "vel_accel_08", "label": "misconception", "prompt": "If an object's position vs time graph is a straight line, its acceleration is", "expected_correct_answer": "constant and non-zero"}
+{"id": "vel_accel_09a", "pair_id": "vel_accel_09", "label": "correct", "prompt": "A ball rolling on a horizontal surface with friction will have acceleration", "expected_correct_answer": "opposite to its velocity"}
+{"id": "vel_accel_09b", "pair_id": "vel_accel_09", "label": "misconception", "prompt": "A ball rolling on a horizontal surface with friction will have acceleration", "expected_correct_answer": "in the direction of velocity"}
+{"id": "vel_accel_10a", "pair_id": "vel_accel_10", "label": "correct", "prompt": "In free fall, all objects have the same", "expected_correct_answer": "acceleration"}
+{"id": "vel_accel_10b", "pair_id": "vel_accel_10", "label": "misconception", "prompt": "In free fall, all objects have the same", "expected_correct_answer": "velocity"}
+{"id": "vel_accel_11a", "pair_id": "vel_accel_11", "label": "correct", "prompt": "A rocket accelerating upward experiences a net force that is", "expected_correct_answer": "upward"}
+{"id": "vel_accel_11b", "pair_id": "vel_accel_11", "label": "misconception", "prompt": "A rocket accelerating upward experiences a net force that is", "expected_correct_answer": "balanced"}

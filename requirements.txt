@@ -1,0 +1,15 @@
+# Physics Misconception PoC Requirements
+# Python 3.11+ required
+
+# Core dependencies
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.27.0
+
+# HuggingFace and model weights
+huggingface-hub>=0.20.0
+safetensors>=0.4.0
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.60.0
